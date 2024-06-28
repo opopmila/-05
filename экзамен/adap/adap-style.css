@@ -1,0 +1,478 @@
+@media(max-width:1480px) {
+    .container {
+        padding: 0px 100px;
+        font-size: 18px;
+        transition: 0.2s;
+    }
+
+    .container-header {
+        padding: 0px 100px;
+        font-size: 18px;
+        transition: 0.2s;
+    }
+
+    .container-footer {
+        padding: 0px 100px;
+        font-size: 18px;
+        transition: 0.2s;
+    }
+
+    .header-main {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        transition: 0.2s;
+    }
+
+    .menu__item {
+        font-size: 18px;
+        transition: 0.2s;
+    }
+
+    .header-logo img,
+    .footer__logo {
+        max-width: 85px;
+        transition: 0.2s;
+    }
+
+    .main {
+        gap: 20px;
+        padding-top: 136px;
+        transition: 0.2s;
+    }
+
+    .slider {
+        margin-left: 203px;
+        transition: 0.2s;
+    }
+
+    .slide img {
+        max-width: 773px;
+        transition: 0.2s;
+    }
+
+    .main__title h2 {
+        font-size: 24px;
+        font-weight: 400;
+        transition: 0.2s;
+    }
+
+    .main__title p {
+        font-weight: 400;
+        font-size: 18px;
+        transition: 0.2s;
+    }
+
+    .initiative {
+        margin-top: 67px;
+        margin-bottom: 67px;
+        gap: 34px;
+        transition: 0.2s;
+    }
+
+    .initiative_card {
+        max-height: 256px;
+        width: 350px;
+        height: 100%;
+        border-radius: 25px;
+        padding: 101px 51px;
+        gap: 34px;
+        transition: 0.2s;
+    }
+
+    .card__nomber h1 {
+        font-size: 30px;
+        transition: 0.2s;
+    }
+
+    .card__title h2 {
+        font-size: 22px;
+        transition: 0.2s;
+    }
+
+    .card__title h3 {
+        font-size: 22px;
+        transition: 0.2s;
+    }
+
+    .events h1 {
+        font-size: 32px;
+        transition: 0.2s;
+    }
+
+    .events__cards {
+        margin-top: 34px;
+        margin-bottom: 139px;
+        transition: 0.2s;
+    }
+
+    .events__card {
+        max-width: 1486px;
+        height: 173px;
+        border-radius: 25px;
+        transition: 0.2s;
+    }
+
+    .card__main {
+        padding: 32px 52px;
+        transition: 0.2s;
+    }
+
+    .events__main h2 {
+        font-size: 20px;
+        padding-bottom: 17px;
+        transition: 0.2s;
+    }
+
+    .events__main h3,
+    .events__local p,
+    .registr-bt,
+    .footer__item {
+        font-size: 20px;
+        transition: 0.2s;
+    }
+
+    .footer__menu {
+        gap: 29px;
+        transition: 0.2s;
+    }
+
+    .footer__item2 {
+        font-size: 18px;
+        transition: 0.2s;
+    }
+
+    .container-footer__copiraiter {
+        margin-top: 50px;
+        padding: 0px 100px;
+        transition: 0.2s;
+    }    
+
+    .container-footer__copiraiter p {
+        font-size: 16px;
+        transition: 0.2s;
+    
+    }
+    
+}
+
+@media(max-width:1040px) {
+    .container {
+        padding: 0px 80px;
+        font-size: 16px;
+        transition: 0.2s;
+    }
+
+    .container-header {
+        padding: 0px 80px;
+        font-size: 18px;
+        transition: 0.2s;
+    }
+
+    .container-footer {
+        padding: 0px 80px;
+        font-size: 18px;
+        transition: 0.2s;
+    }
+
+    .header-main {
+        display: none;
+    }
+
+    .adaptive-style {
+        display: flex;
+        gap: 20px;
+        transition: 0.2s;
+    }
+
+    .menu__item {
+        font-size: 16px;
+        transition: 0.2s;
+    }
+
+    .header-logo img,
+    .footer__logo {
+        max-width: 85px;
+        transition: 0.2s;
+    }
+
+    .main {
+        gap: 20px;
+        padding-top: 136px;
+        transition: 0.2s;
+    }
+
+    .slider {
+        margin-left: 203px;
+        transition: 0.2s;
+    }
+
+    .slide img {
+        max-width: 773px;
+        transition: 0.2s;
+    }
+
+    .main__title h2 {
+        font-size: 24px;
+        font-weight: 400;
+        transition: 0.2s;
+    }
+
+    .main__title p {
+        font-weight: 400;
+        font-size: 18px;
+        transition: 0.2s;
+    }
+
+    .initiative {
+        margin-top: 67px;
+        margin-bottom: 67px;
+        gap: 34px;
+        transition: 0.2s;
+    }
+
+    .initiative_card {
+        max-height: 256px;
+        width: 350px;
+        height: 100%;
+        border-radius: 25px;
+        padding: 101px 51px;
+        gap: 34px;
+        transition: 0.2s;
+    }
+
+    .card__nomber h1 {
+        font-size: 30px;
+        transition: 0.2s;
+    }
+
+    .card__title h2 {
+        font-size: 22px;
+        transition: 0.2s;
+    }
+
+    .card__title h3 {
+        font-size: 22px;
+        transition: 0.2s;
+    }
+
+    .events h1 {
+        font-size: 32px;
+        transition: 0.2s;
+    }
+
+    .events__cards {
+        margin-top: 34px;
+        margin-bottom: 139px;
+        transition: 0.2s;
+    }
+
+    .events__card {
+        max-width: 1486px;
+        height: 173px;
+        border-radius: 25px;
+        transition: 0.2s;
+    }
+
+    .card__main {
+        padding: 32px 52px;
+        transition: 0.2s;
+    }
+
+    .events__main h2 {
+        font-size: 20px;
+        padding-bottom: 17px;
+        transition: 0.2s;
+    }
+
+    .events__main h3,
+    .events__local p,
+    .registr-bt,
+    .footer__item {
+        font-size: 20px;
+        transition: 0.2s;
+    }
+
+    .footer__menu {
+        gap: 29px;
+        transition: 0.2s;
+    }
+
+    .footer__item2 {
+        font-size: 18px;
+        transition: 0.2s;
+    }
+
+    .container-footer__copiraiter {
+        margin-top: 50px;
+        padding: 0px 100px;
+        transition: 0.2s;
+    }    
+
+    .container-footer__copiraiter p {
+        font-size: 16px;
+        transition: 0.2s;
+    
+    }
+
+    /* HAMBURGER-MENU */
+    .local-adap {
+        display: flex;
+        align-items: center;
+        padding: 12px 33px 12px 8px;
+    }
+
+    .img_local {
+        max-width: 25px;
+        width: 100%;
+    }
+
+    .dropbtn {
+        background-color: white;
+        font-size: 20px;
+        border: none;
+        cursor: pointer;
+    }
+
+    .button_local {
+        display: flex;
+        align-items: baseline;
+    }
+
+    .button_local img {
+        max-width: 15px;
+        width: 100%;
+    }
+
+    .dropdown span {
+        border-bottom: 3px solid #00679D;
+        bottom: 10%;
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+        width: 100%;
+        max-width: 100px;
+        width: 100px;
+        margin: 3px;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        min-width: 250px;
+        overflow: auto;
+        box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+        background-color: #ffff;
+    }
+
+    .button_local_city_menu {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+    .dropdown a:hover {
+        font-weight: 700;
+    }
+
+    .show {
+        z-index: 10;
+        display: block;
+    }
+
+    .adap-logo img {
+        max-width: 255px;
+        padding: 0px 0 0 35px;
+    }
+
+    #menu__toggle {
+        opacity: 0;
+    }
+
+    #menu__toggle:checked+.menu__btn>span {
+        transform: rotate(45deg);
+    }
+
+    #menu__toggle:checked+.menu__btn>span::before {
+        top: 0;
+        transform: rotate(0deg);
+    }
+
+    #menu__toggle:checked+.menu__btn>span::after {
+        top: 0;
+        transform: rotate(90deg);
+    }
+
+    #menu__toggle:checked~.menu__box {
+        left: 0 !important;
+    }
+
+    .menu__btn {
+        position: absolute;
+        display: block;
+        top: 59px;
+        left: 40px;
+        width: 35px;
+        height: 30px;
+        cursor: pointer;
+        z-index: 2;
+    }
+
+    .menu__btn>span,
+    .menu__btn>span::before,
+    .menu__btn>span::after {
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 3px;
+        background-color: #00679D;
+        transition-duration: .55s;
+    }
+
+    .menu__btn>span::before {
+        content: '';
+        top: -8px;
+    }
+
+    .menu__btn>span::after {
+        content: '';
+        top: 8px;
+    }
+
+    .menu__box {
+        z-index: 1;
+        font-family: 'Commissioner', sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 300px;
+        height: 573%;
+        margin: 0;
+        padding: 100px 0;
+        list-style: none;
+        background-color: #FFFF;
+        box-shadow: 7px 0px 12px rgba(0, 0, 0, 0.25);
+        transition-duration: .55s;
+    }
+
+    .menu__item {
+        display: block;
+        padding: 12px 33px 12px 33px;
+        color: #000000;
+        text-decoration: none;
+        transition-duration: .25s;
+    }
+
+    .menu__item:hover {
+        color: #00679D;
+        transition: 0.3s;
+    }
+    
+}
